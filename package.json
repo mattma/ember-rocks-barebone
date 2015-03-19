@@ -1,13 +1,12 @@
 {
-  "name": "Ember_Rocks",
+  "name": "Ember Rocks Barebone",
   "description": "Ember Application Boilerplate",
   "author": {
     "name": "Matt Ma",
     "email": "matt@mattmadesign.com"
   },
-  "version": "0.0.1",
-  "private": true,
-  "repository": "https://github.com/mattma/ember-rocks",
+  "version": "0.0.2",
+  "repository": "https://github.com/mattma/ember-rocks-barebone",
   "main": "./server/index",
   "scripts": {
     "start": "node server",
